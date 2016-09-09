@@ -1,0 +1,6 @@
+[run]
+branch = True
+include = src/*, tests/*
+
+[report]
+omit = data/*
