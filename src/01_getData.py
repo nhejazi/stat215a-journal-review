@@ -16,7 +16,7 @@ def get_PH_data(link, local):
     import os
     import subprocess
 
-    data_dir = os.path.abspath(str(os.getcwd()) + '/../data')
+    data_dir = os.path.abspath(str(os.getcwd()) + '/data')
 
     pull_data= ('curl' + ' ' + '-L' + ' ' + '-o' + data_dir + '/' + str(local) +
                 '.zip' + ' ' + str(link))
