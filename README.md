@@ -1,5 +1,7 @@
 # UC Berkeley's Statistics 215A: Journal Review Project
 
+[![Join the chat at https://gitter.im/stat215a-journal-review/Lobby](https://badges.gitter.im/stat215a-journal-review/Lobby.svg)](https://gitter.im/stat215a-journal-review/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/berkeley-stat159/project-gamma.svg?branch=master)](https://travis-ci.org/berkeley-stat159/project-gamma?branch=master)
 [![Coverage Status](https://coveralls.io/repos/berkeley-stat159/project-gamma/badge.svg?branch=master)](https://coveralls.io/r/berkeley-stat159/project-gamma?branch=master)
