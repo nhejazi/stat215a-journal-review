@@ -6,8 +6,8 @@
 [![Join the chat at https://gitter.im/stat215a-journal-review/Lobby](https://badges.gitter.im/stat215a-journal-review/Lobby.svg)](https://gitter.im/stat215a-journal-review/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 _**Team members:**_ [Nima Hejazi](https://github.com/nhejazi), [Courtney
-Schiffman](https://github.com/courtneyschiffman), [Mengqiao
-Yu](https://github.com/MengqiaoYu), [Xiaonan Zhou](https://github.com/GiannaJo)
+Schiffman](https://github.com/courtneyschiffman), [Xiaonan
+Zhou](https://github.com/GiannaJo)
 
 This project consists in a full, reproducible review of the scientific paper:
 
@@ -26,7 +26,7 @@ described below:
 
 ## License
 
-&copy; 2016 [Nima Hejazi](http://nimahejazi.org), Courtney Schiffman, Mengqiao
-Yu, Xiaonan Zhou
+&copy; 2016 [Nima Hejazi](http://nimahejazi.org), Courtney Schiffman, Xiaonan
+Zhou
 
 This repository is licensed under the MIT license. See `LICENSE` for details.

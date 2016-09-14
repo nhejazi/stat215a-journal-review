@@ -12,4 +12,4 @@
             3 independent Poissons fall in ..., __for Table 1__
     * Courtney: binomial and nonparametric testing
     * Xiaonan: data cleaning, histogram, reproduce early table
-    * Mengqiao: testing hypotheses 2 and 3
+    * testing hypotheses 2 and 3 (formerly Mengqiao)
